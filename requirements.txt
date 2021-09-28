@@ -1,6 +1,6 @@
 streamlit==0.89.0
-numpy
+numpy==1.19.5
 pandas
 sklearn
 matplotlib
-tensorflow-cpu==2.5.0
+tensorflow-cpu
