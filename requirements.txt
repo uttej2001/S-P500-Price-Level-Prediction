@@ -3,4 +3,4 @@ numpy
 pandas
 sklearn
 matplotlib
-tensorflow
+tensorflow-cpu==2.5.0
