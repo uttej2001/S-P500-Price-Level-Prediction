@@ -8,9 +8,6 @@ S&P daily closing price from 1986 to 2018, and historical stock prices from the 
 on the S&P 500 index as of February 2018. The datasets used contain data
 related to stock price, opening, closing values and the highest, lowest price that
 particular stock reached.
-### About 
-A web application created for predicting next days’ price level and spread direction 
-between any two stocks for easy investments.
 ### Goal
 To make S& P500 stock investment more accessible to investors and gain more long term profits.
 ### Technique
