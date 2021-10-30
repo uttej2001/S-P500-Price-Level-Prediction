@@ -1,4 +1,5 @@
 ## Using-Machine-Learning-Models-to-Predict-S-P500-Price-Level-and-Spread-Direction
+This project was done as part of an internship with Technocolabs Pvt. Ltd in Sept, 2021.
 ## Intro
 This project aims on predicting the future price changes of a stock of a company.
 This uses the previous prices and financial news related to that particular
